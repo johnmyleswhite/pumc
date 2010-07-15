@@ -1,0 +1,20 @@
+#sidebar
+{
+  background-color: orange;
+  min-height: 600px;
+  padding-left: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right: 25px;
+}
+
+#main
+{
+  background-color: black;
+  color: white;
+  min-height: 600px;
+  padding-left: 25px;
+  padding-top: 25px; 
+  padding-bottom: 25px;
+  padding-right: 25px;
+}

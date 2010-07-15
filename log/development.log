@@ -349,3 +349,213 @@ Processing WallController#index (for 127.0.0.1 at 2010-07-15 19:12:04) [GET]
 Rendering template within layouts/application
 Rendering wall/index
 Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/wall]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:23:40) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 22ms (View: 20, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-07-15 19:23:43) [GET]
+Rendering template within layouts/application
+Rendering contact/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing WallController#index (for 127.0.0.1 at 2010-07-15 19:23:44) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/wall]
+
+
+Processing NewsItemController#index (for 127.0.0.1 at 2010-07-15 19:23:44) [GET]
+Rendering template within layouts/application
+Rendering news_item/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/news_item]
+
+
+Processing PhotoController#index (for 127.0.0.1 at 2010-07-15 19:23:45) [GET]
+Rendering template within layouts/application
+Rendering photo/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/photo]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:23:46) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:24:42) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 19ms (View: 18, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:26:04) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:26:22) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:26:23) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:28:36) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:28:38) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:29:08) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:31:04) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:31:05) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:31:20) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:31:48) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:32:12) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-07-15 19:32:13) [GET]
+Rendering template within layouts/application
+Rendering contact/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing WallController#index (for 127.0.0.1 at 2010-07-15 19:32:14) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/wall]
+
+
+Processing NewsItemController#index (for 127.0.0.1 at 2010-07-15 19:32:14) [GET]
+Rendering template within layouts/application
+Rendering news_item/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/news_item]
+
+
+Processing PhotoController#index (for 127.0.0.1 at 2010-07-15 19:32:16) [GET]
+Rendering template within layouts/application
+Rendering photo/index
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/photo]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:32:16) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing PhotoController#index (for 127.0.0.1 at 2010-07-15 19:32:17) [GET]
+Rendering template within layouts/application
+Rendering photo/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/photo]
+
+
+Processing PhotoController#index (for 127.0.0.1 at 2010-07-15 19:33:14) [GET]
+Rendering template within layouts/application
+Rendering photo/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/photo]
+
+
+Processing PhotoController#index (for 127.0.0.1 at 2010-07-15 19:35:10) [GET]
+Rendering template within layouts/application
+Rendering photo/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/photo]
+
+
+Processing PhotoController#index (for 127.0.0.1 at 2010-07-15 19:37:19) [GET]
+Rendering template within layouts/application
+Rendering photo/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/photo]
+
+
+Processing PhotoController#index (for 127.0.0.1 at 2010-07-15 19:37:58) [GET]
+Rendering template within layouts/application
+Rendering photo/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/photo]
+
+
+Processing PhotoController#index (for 127.0.0.1 at 2010-07-15 19:38:07) [GET]
+Rendering template within layouts/application
+Rendering photo/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/photo]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:38:27) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-07-15 19:38:28) [GET]
+Rendering template within layouts/application
+Rendering contact/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing WallController#index (for 127.0.0.1 at 2010-07-15 19:38:28) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/wall]
+
+
+Processing NewsItemController#index (for 127.0.0.1 at 2010-07-15 19:38:29) [GET]
+Rendering template within layouts/application
+Rendering news_item/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/news_item]
+
+
+Processing PhotoController#index (for 127.0.0.1 at 2010-07-15 19:38:30) [GET]
+Rendering template within layouts/application
+Rendering photo/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/photo]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:38:30) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/link]

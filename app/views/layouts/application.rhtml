@@ -5,6 +5,7 @@
 
 	<head>
 		<link type="text/css" rel="stylesheet" media="screen" href="/stylesheets/compressed/baseline.compress.css">
+		<link type="text/css" rel="stylesheet" media="screen" href="/stylesheets/site.css">
 
 		<link type="text/css" rel="alternate stylesheet" title="baseline" href="/stylesheets/background-grid/grid.baseline.css">
 
@@ -19,7 +20,7 @@
 	</head>
 
 	<body>
-		<div class="column width2 first grid-example">
+		<div id="sidebar" class="column width1 first grid-example">
 			<h1>PUMC</h1>
 			<p>
 				<ul>
@@ -32,7 +33,7 @@
 				</ul>
 			</p>
 		</div>
-		<div class="column width2 grid-example">
+		<div id="main" class="column width3 grid-example">
 			<%= yield %>
 		</div>
 	</body>
