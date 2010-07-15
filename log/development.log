@@ -1,0 +1,351 @@
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 18:46:25) [GET]
+
+ActionView::MissingTemplate (Missing template about/index.erb in view path app/views):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 18:46:41) [GET]
+
+ActionView::MissingTemplate (Missing template about/index.erb in view path app/views):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 18:46:49) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 23ms (View: 21, DB: 0) | 200 OK [http://localhost/about/]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 18:47:16) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/about/]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 18:47:33) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 18:47:50) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 72ms (View: 21, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 18:48:29) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 18:48:58) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:00:25) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-15 19:00:25) [GET]
+
+ActionController::RoutingError (No route matches "/css/background-grid/grid.baseline.css" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-15 19:00:25) [GET]
+
+ActionController::RoutingError (No route matches "/css/compressed/baseline.compress.css" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-15 19:00:25) [GET]
+
+ActionController::RoutingError (No route matches "/css/site.css" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-15 19:00:26) [GET]
+
+ActionController::RoutingError (No route matches "/css/background-grid/grid.baseline.column.css" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-15 19:00:26) [GET]
+
+ActionController::RoutingError (No route matches "/css/background-grid/grid.column.css" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:03:31) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 22ms (View: 20, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-15 19:03:31) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/site.css" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:04:18) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-15 19:04:18) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/site.css" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:04:36) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:04:38) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:04:42) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:05:07) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:06:07) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:06:19) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:07:14) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 17ms (View: 16, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:08:29) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:10:22) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 18ms (View: 17, DB: 0) | 200 OK [http://localhost/about/index]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-07-15 19:10:24) [GET]
+Rendering template within layouts/application
+Rendering contact/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing WallController#index (for 127.0.0.1 at 2010-07-15 19:10:25) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/wall]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-15 19:10:26) [GET]
+
+ActionController::RoutingError (No route matches "/news" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing WallController#index (for 127.0.0.1 at 2010-07-15 19:10:43) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/wall]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-15 19:10:43) [GET]
+
+ActionController::RoutingError (No route matches "/news_items" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-15 19:10:56) [GET]
+
+ActionController::RoutingError (No route matches "/news_items" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing NewsItemController#index (for 127.0.0.1 at 2010-07-15 19:10:58) [GET]
+Rendering template within layouts/application
+Rendering news_item/index
+Completed in 67ms (View: 66, DB: 0) | 200 OK [http://localhost/news_item]
+
+
+Processing NewsItemController#index (for 127.0.0.1 at 2010-07-15 19:11:41) [GET]
+Rendering template within layouts/application
+Rendering news_item/index
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://localhost/news_item]
+
+
+Processing AboutController#index (for 127.0.0.1 at 2010-07-15 19:11:43) [GET]
+Rendering template within layouts/application
+Rendering about/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing ContactController#index (for 127.0.0.1 at 2010-07-15 19:11:43) [GET]
+Rendering template within layouts/application
+Rendering contact/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing WallController#index (for 127.0.0.1 at 2010-07-15 19:11:44) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/wall]
+
+
+Processing NewsItemController#index (for 127.0.0.1 at 2010-07-15 19:11:45) [GET]
+Rendering template within layouts/application
+Rendering news_item/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/news_item]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-15 19:11:45) [GET]
+
+ActionController::RoutingError (No route matches "/links" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-15 19:11:49) [GET]
+
+ActionController::RoutingError (No route matches "/links" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-15 19:11:51) [GET]
+
+ActionController::RoutingError (No route matches "/photos" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/local/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/local/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing NewsItemController#index (for 127.0.0.1 at 2010-07-15 19:12:02) [GET]
+Rendering template within layouts/application
+Rendering news_item/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/news_item]
+
+
+Processing PhotoController#index (for 127.0.0.1 at 2010-07-15 19:12:03) [GET]
+Rendering template within layouts/application
+Rendering photo/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/photo]
+
+
+Processing LinkController#index (for 127.0.0.1 at 2010-07-15 19:12:04) [GET]
+Rendering template within layouts/application
+Rendering link/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/link]
+
+
+Processing WallController#index (for 127.0.0.1 at 2010-07-15 19:12:04) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/wall]
