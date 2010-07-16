@@ -1,0 +1,2 @@
+module TripReportHelper
+end

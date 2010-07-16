@@ -1,3 +1,7 @@
 .DS_Store
+development.sqlite3
+log/development.log
 production.sqlite3
+log/production.log
 public/content
+db/schema.rb
