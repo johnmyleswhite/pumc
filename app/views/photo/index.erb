@@ -2,6 +2,7 @@
 
 <h3>Photos</h3>
 
-<% @photos.each do |phot| %>
-	<p>Photo Here</p>
+<% @photos.each do |photo| %>
+	<img src="/<%= photo.filename %>" />
+	<p><%= photo.caption %></p>
 <% end %>

@@ -2,6 +2,10 @@
 
 <h3>Links</h3>
 
-<% @links.each do |link| %>
-	<p>Link Here</p>
-<% end %>
+<p>
+	<ul>
+	<% @links.each do |link| %>
+		<li><a href="<%= link.url %>"><%= link.link_text %></a>
+	<% end %>
+	</ul>
+</p>

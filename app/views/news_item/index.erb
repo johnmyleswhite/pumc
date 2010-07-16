@@ -3,5 +3,7 @@
 <h3>News Items</h3>
 
 <% @news_items.each do |news_item| %>
-	<p>News Item Here</p>
+	<h4><%= news_item.title %></h4>
+	<p><%= news_item.body %></p>
+	<p>Created at <%= news_item.created_at %></p>
 <% end %>
