@@ -1,0 +1,4 @@
+Add a login controller
+Use this to authenticate users; then set cookies
+Only authenticated users see link for posting to news
+Add new action and create action to NewsItem controller
